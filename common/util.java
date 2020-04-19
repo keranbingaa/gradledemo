@@ -1,2 +1,3 @@
 class util{
+    int i;
 }
